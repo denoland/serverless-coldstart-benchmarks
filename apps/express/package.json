@@ -1,0 +1,17 @@
+{
+  "name": "link-shortener-app",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Simple link shortener app.",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "flat-cache": "^5.0.0",
+    "morgan": "^1.10.0",
+    "nanoid": "^5.0.7",
+    "response-time": "^2.3.2",
+    "serverless-http": "^3.2.0"
+  }
+}

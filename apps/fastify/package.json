@@ -1,0 +1,14 @@
+{
+  "name": "link-shortener-app",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Simple link shortener app.",
+  "dependencies": {
+    "@fastify/formbody": "^7.4.0",
+    "@fastify/view": "^9.1.0",
+    "ejs": "^3.1.10",
+    "fastify": "^4.28.0",
+    "flat-cache": "^5.0.0",
+    "nanoid": "^5.0.7"
+  }
+}

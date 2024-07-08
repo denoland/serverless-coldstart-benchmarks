@@ -1,0 +1,20 @@
+{
+  "name": "link-shortener-app",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Simple link shortener app.",
+  "scripts": {
+    "dev": "npx tsc && node main.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.11.3",
+    "ejs": "^3.1.10",
+    "flat-cache": "^5.0.0",
+    "hono": "^4.4.6",
+    "nanoid": "^5.0.7",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/flat-cache": "^2.0.2"
+  }
+}
